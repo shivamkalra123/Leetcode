@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/shivamkalra123/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/shivamkalra123/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/shivamkalra123/Leetcode/tree/main/0853-car-fleet/) | Medium |
 ## Stack
@@ -22,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0853-car-fleet](https://github.com/shivamkalra123/Leetcode/tree/main/0853-car-fleet/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/shivamkalra123/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
