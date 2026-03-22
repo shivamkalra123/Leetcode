@@ -35,8 +35,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkalra123/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/shivamkalra123/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/shivamkalra123/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/shivamkalra123/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivamkalra123/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/shivamkalra123/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/shivamkalra123/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0981-time-based-key-value-store](https://github.com/shivamkalra123/Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
