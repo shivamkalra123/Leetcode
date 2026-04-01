@@ -56,10 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
