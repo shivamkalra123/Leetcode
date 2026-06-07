@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkalra123/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/shivamkalra123/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/shivamkalra123/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/shivamkalra123/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0853-car-fleet](https://github.com/shivamkalra123/Leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shivamkalra123/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Stack
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivamkalra123/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/shivamkalra123/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
