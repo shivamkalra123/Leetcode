@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamkalra123/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shivamkalra123/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkalra123/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0213-house-robber-ii](https://github.com/shivamkalra123/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0704-binary-search](https://github.com/shivamkalra123/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/shivamkalra123/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkalra123/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -97,5 +98,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/shivamkalra123/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shivamkalra123/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
